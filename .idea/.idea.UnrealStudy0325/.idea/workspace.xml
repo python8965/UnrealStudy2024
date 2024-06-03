@@ -10,207 +10,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1010b1f5-9906-4f6d-9779-945644388f0e" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-0013.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-0013.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-0431.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-0431.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-0438.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-0438.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-1515.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-1515.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-2718.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-2718.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-2920.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-2920.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-3724.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-3724.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-4402.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-4402.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-4437.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-4437.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-4701.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-4701.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-5433.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-5433.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-7079.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-7079.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-7818.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-7818.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-8563.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-8563.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-8828.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-8828.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-8920.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-8920.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-9028.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-9028.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-9190.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-9190.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-9441.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-UnrealStudy0325-9441.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Resource/Chapter5/SK_Mannequin_Skeleton_Montage.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Resource/Chapter5/Warrior_Fall_Loop.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Resource/Chapter5/Warrior_Jump.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/Resource/Chapter5/Warrior_Land.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/UEStudy/Input/Actions/IA_Attack.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/UnrealStudy0325/UHT/URSAnimInstance.gen.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/UnrealStudy0325/UHT/URSAnimInstance.generated.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/URSAnimInstance.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/URSAnimInstance.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/URSAnimInstance.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/URSAnimInstance.gen.cpp.dep.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/URSAnimInstance.gen.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/URSAnimInstance.gen.cpp.obj.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0013.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0013.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0013.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0013.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0013.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0013.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0431.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0431.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0431.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0431.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0431.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0431.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0438.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0438.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0438.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0438.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0438.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-0438.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-1515.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-1515.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-1515.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-1515.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-1515.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-1515.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2718.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2718.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2718.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2718.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2718.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2718.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2920.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2920.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2920.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2920.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2920.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-2920.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-3724.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-3724.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-3724.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-3724.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-3724.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-3724.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4402.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4402.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4402.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4402.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4402.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4402.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4437.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4437.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4437.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4437.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4437.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4437.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4701.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4701.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4701.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4701.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4701.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-4701.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-5433.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-5433.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-5433.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-5433.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-5433.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-5433.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7079.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7079.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7079.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7079.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7079.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7079.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7818.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7818.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7818.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7818.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7818.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-7818.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8563.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8563.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8563.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8563.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8563.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8563.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8828.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8828.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8828.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8828.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8828.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8828.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8920.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8920.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8920.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8920.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8920.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-8920.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9028.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9028.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9028.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9028.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9028.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9028.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9190.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9190.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9190.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9190.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9190.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9190.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9441.dll.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9441.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9441.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9441.lib.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9441.sup.exp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealStudy0325/UnrealEditor-UnrealStudy0325-9441.sup.lib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UE5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/Win64/Development/Editor/UnrealStudy0325.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/.Rider/root.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/AnimBP_Warrior_Auto1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/AnimBP_Warrior_Auto2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/AnimBP_Warrior_Auto3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/AnimBP_Warrior_Auto5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/AnimBP_Warrior_Auto8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/MM_Fall_Loop_Auto4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/MM_Jump_Auto4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/MM_Land_Auto4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/SK_Mannequin_Skeleton_Montage_Auto0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/SK_Mannequin_Skeleton_Montage_Auto6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/SK_Mannequin_Skeleton_Montage_Auto7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/Resource/Chapter5/SK_Mannequin_Skeleton_Montage_Auto9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Autosaves/Game/UEStudy/Input/Actions/IA_Attack_Auto7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T19.38.02.674Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T19.40.38.387Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T19.42.50.945Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.01.30.465Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.10.37.289Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.19.28.777Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.19.57.736Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.41.10.386Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.41.14.894Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.44.38.945Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.45.04.747Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T20.45.12.630Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T21.15.04.277Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T22.35.06.733Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T22.36.05.581Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saved/Logs/WorldPartition/StreamingGeneration-PIE_ThirdPersonMap-0001eafc-2024-05-20T22.41.23.812Z.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UnrealStudy0325/Private/URSAnimInstance.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/UnrealStudy0325/Public/URSAnimInstance.h" afterDir="false" />
-    </list>
+    <list default="true" id="1010b1f5-9906-4f6d-9779-945644388f0e" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -657,7 +457,7 @@
       <workItem from="1715599027770" duration="1043000" />
       <workItem from="1715600132888" duration="4724000" />
       <workItem from="1716201510516" duration="9257000" />
-      <workItem from="1717410929134" duration="397000" />
+      <workItem from="1717410929134" duration="791000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -667,7 +467,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717411314929</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ignore">
+      <option name="closed" value="true" />
+      <created>1717411392350</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717411392350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <option name="closed" value="true" />
+      <created>1717411687395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717411687395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -679,7 +495,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="ignore" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
