@@ -6,6 +6,9 @@
 #include "EnhancedInputSubsystems.h"
 #include "InputMappingContext.h"
 #include "URSAnimInstance.h"
+#include "DrawDebugHelpers.h"
+#include "URSPlayerController.h"
+#include "Engine/DamageEvents.h"
 
 // Sets default values
 AURSCharacter::AURSCharacter()
@@ -79,6 +82,11 @@ AURSCharacter::AURSCharacter()
 
 	MaxCombo = 4;
 	AttackEndComboState();
+
+	GetCapsuleComponent()->SetCollisionProfileName(TEXT("URSCharacter"));
+
+	AttackRange = 200.0f;
+	AttackRadius = 50.0f;
 }
 
 // Called when the game starts or when spawned
@@ -86,7 +94,7 @@ void AURSCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 
-	APlayerController* PlayerController = Cast<APlayerController>(Controller);
+	AURSPlayerController* PlayerController = Cast<AURSPlayerController>(Controller);
 	if (PlayerController != nullptr)
 	{
 		UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer());
@@ -286,6 +294,25 @@ void AURSCharacter::PostInitializeComponents()
 			URSAnim->JumpToAttackMontageSection(CurrentCombo);
 		}
 	});
+
+	URSAnim->OnAttackHitCheckDelegate.AddUObject(this, &AURSCharacter::AttackCheck);
+}
+
+float AURSCharacter::TakeDamage(float DamageAmount, FDamageEvent const& DamageEvent, AController* EventInstigator,
+	AActor* DamageCauser)
+{
+	float FinalDamage = Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
+
+	UNREALSTUDY_UELOG(Warning, TEXT("Actor : %s took Damage : %f"), *GetName(), FinalDamage);
+
+
+	if (FinalDamage > 0.0f)
+	{
+		URSAnim->SetDeadAnim();
+		SetActorEnableCollision(false);
+	}
+	
+	return FinalDamage;
 }
 
 void AURSCharacter::OnAttackMontageEnded(UAnimMontage* Montage, bool bInterrupted)
@@ -310,4 +337,40 @@ void AURSCharacter::AttackEndComboState()
 	bCanNextCombo = false;
 	CurrentCombo = 0;
 	
+}
+
+void AURSCharacter::AttackCheck()
+{
+	FHitResult HitResult;
+	FCollisionQueryParams Params(NAME_None, false, this);
+
+	bool bResult = GetWorld()->SweepSingleByChannel(
+		HitResult,
+		GetActorLocation(),
+		GetActorLocation()+GetActorForwardVector() * AttackRange,
+		FQuat::Identity,
+		ECollisionChannel::ECC_GameTraceChannel2,
+		FCollisionShape::MakeSphere(AttackRadius), Params);
+
+#if ENABLE_DRAW_DEBUG
+	FVector TraceVec = GetActorForwardVector() * AttackRange;
+	FVector Center = GetActorLocation() + TraceVec * 0.5f;
+	float HalfHeight = AttackRange * 0.5f + AttackRadius;
+	FQuat CapsuleRot = FRotationMatrix::MakeFromZ(TraceVec).ToQuat();
+	FColor DrawColor = bResult ? FColor::Green : FColor::Red;
+	float DebugLifeTime = 5.0f;
+
+	DrawDebugCapsule(GetWorld(), Center, HalfHeight, AttackRadius, CapsuleRot, DrawColor, false, DebugLifeTime);
+#endif
+
+	if (bResult)
+	{
+		if (HitResult.GetActor()->IsValidLowLevel())
+		{
+			UNREALSTUDY_UELOG(Warning, TEXT("Hit Actor Name : %s"), *HitResult.GetActor()->GetName());
+
+			FDamageEvent DamageEvent;
+			HitResult.GetActor()->TakeDamage(50.0f, DamageEvent, GetController(), this);
+		}
+	}
 }

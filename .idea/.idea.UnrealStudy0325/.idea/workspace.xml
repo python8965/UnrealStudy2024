@@ -10,7 +10,107 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1010b1f5-9906-4f6d-9779-945644388f0e" name="Changes" comment="init" />
+    <list default="true" id="1010b1f5-9906-4f6d-9779-945644388f0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/__ExternalActors__/UEStudy/Map/ThirdPersonMap/3/DD/JHYDPGYI05B6J27RIMP58K.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/cp_utf16.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/cp_utf32.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/cp_utf8.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/cp_utfw.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/utf_config.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/utf_converters.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/utf_selector.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/utf-cpp/include/ww898/utf_sizes.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/BlueprintStackGetter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/DebugLogger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/DebugLogger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/RiderDebuggerSupport.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/RiderDebuggerSupport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/UnrealFunctions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/UnrealFunctions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/WideStringWrapper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/Private/WideStringWrapper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderDebuggerSupport/RiderDebuggerSupport.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnrealStudy0325/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnrealStudy0325/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Resource/Chapter5/AnimBP_Warrior.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Resource/Chapter5/AnimBP_Warrior.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Resources/checksum" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Resources/checksum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/RiderLink.uplugin" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/RiderLink.uplugin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/RD.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/RD.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/to_string.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/src/rd_core_cpp/src/main/std/to_string.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/scheduler/SynchronousScheduler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/scripts/format.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RD/thirdparty/spdlog/scripts/format.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintFunction.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintHighlighter.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/BlueprintReference.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ConnectionInfo.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/EmptyScriptCallStack.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptCallStack_Unknown.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/IScriptMsg_Unknown.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/LogMessageInfo.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/NotificationType.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/PlayState.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestFailed.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestResultBase_Unknown.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/RequestSucceed.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStack.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptCallStackFrame.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgCallStack.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/ScriptMsgException.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/StringRange.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UClass.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UE4Library.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnableToDisplayScriptCallStack.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/UE4Library/UnrealLogEvent.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/Library/instantiations_UE4Library.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/LiveCodingModel/LiveCodingModel.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/LiveCodingModel/LiveCodingModel.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/LiveCodingModel/LiveCodingModel.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/LiveCodingModel/LiveCodingModel.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorModel/RdEditorModel.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Pregenerated.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Pregenerated.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Pregenerated.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/RdEditorRoot/RdEditorRoot.Pregenerated.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLink/Public/Model/RdEditorProtocol/instantiations_RdEditorRoot.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Source/RiderLogging/Private/RiderOutputDevice.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UnrealStudy0325/Private/URSAnimInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UnrealStudy0325/Private/URSAnimInstance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UnrealStudy0325/Private/URSCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UnrealStudy0325/Private/URSCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UnrealStudy0325/Public/URSAnimInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UnrealStudy0325/Public/URSAnimInstance.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/UnrealStudy0325/Public/URSCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/UnrealStudy0325/Public/URSCharacter.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +118,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="ignore" />
+        <option name="rewordedMessage" value="init" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="ad5b9556ddc5d7580f69c196da935ffad9d8d607" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -55,36 +166,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "C++ 프로젝트.UnrealStudy0325.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;C++ 프로젝트.UnrealStudy0325.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;UnrealLinkOptionsId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\pytho\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\pytho\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\pytho\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\pytho\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\pytho\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\pytho\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CidrLocalAttachDebugger.recentlyUsed">
       <recent name="com.jetbrains.rider.cpp.debugger.RiderCppLLDBDriverConfiguration" />
     </key>
   </component>
-  <component name="RunManager" selected=".NET Project.AutomationTool">
+  <component name="RunManager" selected="C++ Project.UnrealStudy0325">
     <configuration name="UE5" type="CppProject" factoryName="C++ Project">
       <configuration_1>
         <option name="CONFIGURATION" value="Shipping" />
@@ -457,7 +568,8 @@
       <workItem from="1715599027770" duration="1043000" />
       <workItem from="1715600132888" duration="4724000" />
       <workItem from="1716201510516" duration="9257000" />
-      <workItem from="1717410929134" duration="791000" />
+      <workItem from="1717410929134" duration="6001000" />
+      <workItem from="1717417136406" duration="469000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -491,6 +603,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
