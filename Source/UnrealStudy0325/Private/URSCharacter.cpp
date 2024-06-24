@@ -9,11 +9,12 @@
 #include "DrawDebugHelpers.h"
 #include "URSPlayerController.h"
 #include "Engine/DamageEvents.h"
+#include "URSWeapon.h"
 
 // Sets default values
 AURSCharacter::AURSCharacter()
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
+	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("SPRINGARM"));
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("CAMERA"));
@@ -51,6 +52,8 @@ AURSCharacter::AURSCharacter()
 
 	
 
+	
+
 	static ConstructorHelpers::FObjectFinder<UInputAction> IA_MOVEMENT(TEXT("/Game/UEStudy/Input/Actions/IA_Move.IA_Move"));
 	if (IA_MOVEMENT.Succeeded())
 		MovementAction = IA_MOVEMENT.Object;
@@ -70,6 +73,10 @@ AURSCharacter::AURSCharacter()
 	static ConstructorHelpers::FObjectFinder<UInputAction> IA_ATTACK(TEXT("/Game/UEStudy/Input/Actions/IA_Attack.IA_Attack"));
 	if (IA_ATTACK.Succeeded())
 		AttackAction = IA_ATTACK.Object;
+
+	
+
+	
 	
 	ArmLengthSpeed = 3.0f;
 	ArmRotationSpeed= 10.0f;
@@ -200,6 +207,24 @@ void AURSCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompon
 }
 
 
+bool AURSCharacter::CanSetWeapon()
+{
+	return (CurrentWeapon == nullptr);
+}
+
+void AURSCharacter::SetWeapon(AURSWeapon* NewWeapon)
+{
+	UNREALSTUDY_CHECK(NewWeapon != nullptr && CurrentWeapon == nullptr);
+
+	FName WeaponSocket(TEXT("hand_rSocket"));
+	if (GetMesh()->DoesSocketExist(WeaponSocket))
+	{
+		NewWeapon->AttachToComponent(GetMesh(), FAttachmentTransformRules::SnapToTargetNotIncludingScale, WeaponSocket);
+		NewWeapon->SetOwner(this);
+		CurrentWeapon = NewWeapon;
+	}
+	
+}
 
 void AURSCharacter::Move(const FInputActionValue& Value)
 {

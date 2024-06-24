@@ -66,6 +66,15 @@ public:
 	USpringArmComponent* SpringArm;
 	UPROPERTY(VisibleAnywhere, Category=Camera)
 	UCameraComponent* Camera;
+
+	UPROPERTY(VisibleAnywhere, Category=Weapon)
+	USkeletalMeshComponent* Weapon;
+	UPROPERTY(VisibleAnywhere, Category=Weapon)
+	class AURSWeapon* CurrentWeapon;
+
+	bool CanSetWeapon();
+
+	void SetWeapon(class AURSWeapon* NewWeapon);
 private:
 	void Move(const FInputActionValue& Value);
 	void Look(const FInputActionValue& Value);
